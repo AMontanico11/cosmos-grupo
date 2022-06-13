@@ -1,0 +1,64 @@
+.contenido{
+    background-color: white;
+    width: 1366px;
+    height: 50px;
+}
+
+.li1{
+    list-style: none;
+    display: inline-block;
+    padding:1em;
+    position: absolute;
+    left: 1031px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.li2{
+    list-style: none;
+    display: inline-block;
+    padding:1em;
+    position: absolute;
+    left: 1105px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.li3{
+    list-style: none;
+    display: inline-block;
+    padding:1em;
+    position: absolute;
+    left: 1169px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.li4{
+    list-style: none;
+    display: inline-block;
+    padding:1em;
+    position: absolute;
+    left: 1250px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    font-size: 15px;
+}
+
+.logo{
+    margin: 0px;
+    padding: 0px;
+    top: -5px;
+    position: absolute;
+    left: 18px;
+    width: 140px;
+    
+}
